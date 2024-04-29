@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CredentialManagerSignInApp</string>
+    <string name="default_web_client_id">replace.with.your.apps.client.id</string>
+</resources>
